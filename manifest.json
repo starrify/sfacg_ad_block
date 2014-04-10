@@ -6,9 +6,9 @@
 
 {
     "manifest_version": 2,
-    "name": "RMAD_SFACG",
-    "description": "A testing Chrome Extension for removing ad for sfacg.com.",
-    "version": "0.1",
+    "name": "SFACG_AD_BLOCK",
+    "description": "A Chrome Extension for removing AD for comic.sfacg.com.",
+    "version": "0.2",
     "permissions": 
     [
         "http://comic.sfacg.com/*",
